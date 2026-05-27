@@ -15,7 +15,8 @@ android.minapi = 26
 android.ndk = 25b
 android.accept_sdk_license = True
 android.archs = arm64-v8a
-p4a.branch = master
+android.skip_update = False
+p4a.branch = develop
 log_level = 2
 warn_on_root = 1
 
